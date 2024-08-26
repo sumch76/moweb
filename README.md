@@ -2,7 +2,7 @@
 
 Discover real-time movies and TV shows with detailed information using **The Movix App**. This app is built with **React.js** and styled using **Tailwind CSS**, providing an engaging and responsive user experience. It offers a visually appealing interface that adapts seamlessly to various screen sizes.
 
-[**Live Link** 🌍📡]()
+[**Live Link** 🌍📡](https://moweb-eight.vercel.app/)
 
 ---
 
